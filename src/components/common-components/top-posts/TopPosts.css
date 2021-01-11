@@ -1,0 +1,72 @@
+.top-posts{
+    margin: 3rem 0;
+}
+.single-post:first-child .top-post-image{
+    width: 100%;
+    height: 200px;;
+}
+.single-post:first-child .click{
+    display: block;
+}
+.single-post:first-child .post-index {
+    display: inline-block;
+    width: 20%;
+}
+.single-post:first-child .title-and-index{
+    display: inline-block;
+    width: 80%;
+}
+.single-post:first-child .post-index > span {
+    float: right;
+}
+.top-post-image{
+    /* width: 25%; */
+    width: 100%;
+    height: 100%;
+    margin-top: 5px;
+}
+.single-post{
+    margin: 10px 0;
+    padding: 10px 0;
+    border-top: 1px solid lightgrey;
+}
+.post-index{
+    /* float: right;
+    margin-top: -38px;*/
+    font-size: 2rem;
+    color: lightgray;
+}
+.single-post .click {
+    display: flex;
+    align-items: center;
+}
+.single-post:first-child .title-and-index{
+    margin: 0;    
+}
+.title-and-index{
+    margin: 0 10px;
+    font-weight: 500;    
+}
+
+.top-posts .timestamp {
+    color: #c3bfbf;
+    font-size: 0.8rem;
+}
+
+.top-posts .post-title{
+    margin-bottom: 12px;
+    color: black;
+}
+.top-posts .single-post:first-child .image-container{
+    width: 100%;
+}
+.top-posts .image-container{
+    width: 33%;
+}
+
+@media (min-width: 450px){
+    .top-post-image{
+        min-height: 10vh;
+    }
+    
+}

@@ -1,0 +1,58 @@
+.main-display{
+    display: grid;
+    grid-template-columns: 65% 35%;
+    grid-template-rows: 50% 50%;
+    height: 30rem;
+    column-gap: 0.5rem;
+    row-gap: 0.5rem;
+    margin-top: 30px;
+}
+.main-article-1{
+    /* background-image: url(/Images/rail-journey_0.jpg); */
+    grid-row-start: 1;
+    grid-row-end: 3;
+    border-radius: 5px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.main-article-2{
+    /* background-image: url(/Images/andaman-island_1552911090.jpeg); */
+    border-radius: 5px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.main-article-3{
+    /* background-image: url(/Images/andaman-island_1552911090.jpeg); */
+    border-radius: 5px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.article-container img{
+    width: 100%;
+}
+.recent-articles .article-container{
+    position: relative;
+}
+.recent-articles .article-text-content {
+    position: absolute;
+    color: white;
+    z-index: 1;
+    bottom: 25%;
+    left: 8%;
+    text-shadow: #060606 0px 4px 10px;
+}
+.recent-articles .article-title {
+    margin-bottom: 2rem;
+    font-size: x-large;
+}
+@media (min-width: 450px){
+    .article-container img{
+        height: -webkit-fill-available;
+    }
+}
+@media (max-width: 450px){
+    .main-display{
+        height: initial;
+    }
+}
