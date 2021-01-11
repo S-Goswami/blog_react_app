@@ -1,0 +1,527 @@
+{ "recentArticlesData" : [
+        {
+            "imageUrl": "/Images/article-images/rani-ki-vav.jpg",
+            "articleTitle": "Rani ki Vav",
+            "category":"Travel",
+            "articleDateTIme":"August 21, 2017",
+            "articleId" : 27
+        },
+        {
+            "imageUrl": "/Images/india-gate.jpg",
+            "articleTitle": "Catch waves with an adeventurte guide",
+            "category":"Travel",
+            "articleDateTIme":"August 21, 2017",
+            "articleId" : 2
+        },
+        {
+            "imageUrl": "/Images/article-images/ras-malai-1.jpg",
+            "articleTitle": "Best Indian Dessert Recipes ",
+            "category":"Food",
+            "articleDateTIme":"August 21, 2017",
+            "articleId" : 31
+        }
+    ],
+    "theLatestSection" : [
+        {
+            "imageUrl": "/Images/rail-journey_0.jpg",
+            "articleTitle": "Joshua Tree Overnight Adventure",
+            "description": "Gujarat is a state on the western coast of India with a coastline of 1,600 km – most of which lies on the Kathiawar peninsula – and a population of 60.4 million.",
+            "category":"Travel",
+            "articleDateTIme":"August 21, 2017",
+            "articleId" : 28
+        },
+        {
+            "imageUrl": "/Images/rail-journey_0.jpg",
+            "articleTitle": "Joshua Tree Overnight Adventure",
+            "description": "Gujarat is a state on the western coast of India with a coastline of 1,600 km – most of which lies on the Kathiawar peninsula – and a population of 60.4 million.",
+            "category":"Travel",
+            "articleDateTIme":"August 21, 2018",
+            "articleId" : 28
+        },
+        {
+            "imageUrl": "/Images/rail-journey_0.jpg",
+            "articleTitle": "Joshua Tree Overnight Adventure",
+            "description": "Gujarat is a state on the western coast of India with a coastline of 1,600 km – most of which lies on the Kathiawar peninsula – and a population of 60.4 million.",
+            "category":"Travel",
+            "articleDateTIme":"August 21, 2019",
+            "articleId" : 28
+        }
+
+    ],
+    "latestSectionCards" :[
+        {
+            "imageUrl": "/Images/article-images/IOT-1.jpg",
+            "articleTitle": "Internet of Things",
+            "description": "What Technologies are Used in IoT – Technology Behind Internet of Things",
+            "category":"Technology",
+            "articleDateTIme":"August 21, 2017",
+            "articleId" : 19
+        },
+        {
+            "imageUrl": "/Images/india-gate.jpg",
+            "articleTitle": "Catch waves with an adeventurte guide",
+            "description": "The iconic India Gate, an arch gate made using sandstone, is a war memorial situated in the Rajpath area, Delhi. It was built to commemorate the Undivided British Army",
+            "category":"Travel",
+            "articleDateTIme":"August 21, 2017",
+            "articleId" : 2
+        },
+        {
+            "imageUrl": "/Images/article-images/fitness-1.jpg",
+            "articleTitle": "Exercise and Benefits",
+            "description": "Reaping the mental health benefits of exercise is easier than you think",
+            "category":"Fitness",
+            "articleDateTIme":"August 21, 2017",
+            "articleId" : 23
+        },
+        {
+            "imageUrl": "/Images/article-images/bollywood-1.jpg",
+            "articleTitle": "100 years of Bollywood",
+            "description": "A Cinema Like No Other: 100 Years of Bollywood. In the 100 years since, Indian films - which include Bollywood productions - have become a cinematic phenomenon watched by millions of people around the world regardless of their religion or background.",
+            "category":"Bollywood",
+            "articleDateTIme":"August 21, 2017",
+            "articleId" : 15
+        }
+    ],
+    "topPosts" :[
+        {
+            "imageUrl": "/Images/india-gate.jpg",
+            "articleTitle": "Catch waves with an adeventurte guide",
+            "description": "The iconic India Gate, an arch gate made using sandstone, is a war memorial situated in the Rajpath area, Delhi. It was built to commemorate the Undivided British Army",
+            "category":"Travel",
+            "articleDateTIme":"August 21, 2017",
+            "articleId" : 2
+        },
+        {
+            "imageUrl": "/Images/india-gate.jpg",
+            "articleTitle": "Catch waves with an adeventurte guide",
+            "description": "The iconic India Gate, an arch gate made using sandstone, is a war memorial situated in the Rajpath area, Delhi. It was built to commemorate the Undivided British Army",
+            "category":"Travel",
+            "articleDateTIme":"August 21, 2017",
+            "articleId" : 2
+        },
+        {
+            "imageUrl": "/Images/india-gate.jpg",
+            "articleTitle": "Catch waves with an adeventurte guide",
+            "description": "The iconic India Gate, an arch gate made using sandstone, is a war memorial situated in the Rajpath area, Delhi. It was built to commemorate the Undivided British Army",
+            "category":"Travel",
+            "articleDateTIme":"August 21, 2017",
+            "articleId" : 2
+        },
+        {
+            "imageUrl": "/Images/india-gate.jpg",
+            "articleTitle": "Catch waves with an adeventurte guide",
+            "description": "The iconic India Gate, an arch gate made using sandstone, is a war memorial situated in the Rajpath area, Delhi. It was built to commemorate the Undivided British Army",
+            "category":"Travel",
+            "articleDateTIme":"August 21, 2017",
+            "articleId" : 2
+        }
+    ],
+    "verticalGallery" :{
+                        "imageUrl": "/Images/india-gate.jpg",
+                        "articleTitle": "Catch waves with an adeventurte guide",
+                        "description": "The iconic India Gate, an arch gate made using sandstone, is a war memorial situated in the Rajpath area, Delhi. It was built to commemorate the Undivided British Army",
+                        "category":"Travel",
+                        "articleDateTIme":"August 21, 2017",
+                        "articleId" : 2
+                    },
+    "latestStories" : [
+        {
+            "imageUrl": "/Images/article-images/bollywood-1.jpg",
+            "articleTitle": "100 years of Bollywood",
+            "description": "A Cinema Like No Other: 100 Years of Bollywood. In the 100 years since, Indian films - which include Bollywood productions - have become a cinematic phenomenon watched by millions of people around the world regardless of their religion or background.",
+            "category":"Bollywood",
+            "articleDateTIme":"August 21, 2017",
+            "articleId" : 15
+        },
+        {
+            "imageUrl": "/Images/rail-journey_0.jpg",
+            "articleTitle": "Joshua Tree Overnight Adventure",
+            "description": "Gujarat is a state on the western coast of India with a coastline of 1,600 km – most of which lies on the Kathiawar peninsula – and a population of 60.4 million.",
+            "category":"Travel",
+            "articleDateTIme":"August 21, 2018",
+            "articleId" : 2
+        },
+        {
+            "imageUrl": "/Images/india-gate.jpg",
+            "articleTitle": "Catch waves with an adeventurte guide",
+            "description": "The iconic India Gate, an arch gate made using sandstone, is a war memorial situated in the Rajpath area, Delhi. It was built to commemorate the Undivided British Army",
+            "category":"Travel",
+            "articleDateTIme":"August 21, 2017",
+            "articleId" : 2
+        }
+
+    ],
+
+    "categoryData":{
+        "Bollywood" :[
+            {
+                "imageUrl": "/Images/article-images/bollywood-1.jpg",
+                "articleTitle": "100 years of Bollywood",
+                "description": "A Cinema Like No Other: 100 Years of Bollywood. In the 100 years since, Indian films - which include Bollywood productions - have become a cinematic phenomenon watched by millions of people around the world regardless of their religion or background.",
+                "category":"Bollywood",
+                "articleDateTIme":"August 21, 2017",
+                "articleId" : 15,
+                "authorPicUrl": "/Images/author-pics/author-1.jpg",
+                "authorName": "Dmitry Nohzenko",
+                "readingTime": "5 min read",
+                "articleContent" : [{   
+                        "para":"The Indian film industry stands above most other national cinemas due to its local focus yet enormous size. Although gaining more and more international popularity, the main audience for this cinematic titan resides within India, and while this may seem a restrictive quality, the fact that India is the second most populated country in the world, combined with the local focus of Indian cinemas (in 2012 foreign imports only filled 9% of the total film box office), Indian cinema has grown to become one of the largest film industries in the world. Although the film industry is widely known as ‘Bollywood’, this term actually only refers to the Hindi-language films produced through the studios in Mumbai (Bombay), only one part of the incredible spectrum of Indian films, albeit the largest."
+                    },
+                    {   
+                        "para":"Another influential factor in Bollywood’s growth was India’s independence in 1947. Proud in becoming an autonomous country, national cinema experienced a Golden Era from the 1940s to the 1960s. This era saw directors such as Satyajit Ray, Guru Dutt, Raj Kapoor and Vijay Bhatt create a wide range of classic films, further establishing and redefining Indian film. It was these influential filmmakers who paved the pathway for the future of Bollywood, and its present day position as one of the largest film industries in the world."
+                    }],
+                "tags": ["Bollywood", "Industry", "Entertainment"],
+                "views" : 0
+            },
+            {
+                "imageUrl": "/Images/article-images/bollywood-1.jpg",
+                "articleTitle": "100 years of Bollywood",
+                "description": "A Cinema Like No Other: 100 Years of Bollywood. In the 100 years since, Indian films - which include Bollywood productions - have become a cinematic phenomenon watched by millions of people around the world regardless of their religion or background.",
+                "category":"Bollywood",
+                "articleDateTIme":"August 21, 2017",
+                "articleId" : 16,
+                "authorPicUrl": "/Images/author-pics/author-1.jpg",
+                "authorName": "Dmitry Nohzenko",
+                "readingTime": "5 min read",
+                "articleContent" : [{   
+                        "para":"The Indian film industry stands above most other national cinemas due to its local focus yet enormous size. Although gaining more and more international popularity, the main audience for this cinematic titan resides within India, and while this may seem a restrictive quality, the fact that India is the second most populated country in the world, combined with the local focus of Indian cinemas (in 2012 foreign imports only filled 9% of the total film box office), Indian cinema has grown to become one of the largest film industries in the world. Although the film industry is widely known as ‘Bollywood’, this term actually only refers to the Hindi-language films produced through the studios in Mumbai (Bombay), only one part of the incredible spectrum of Indian films, albeit the largest."
+                    },
+                    {   
+                        "para":"Another influential factor in Bollywood’s growth was India’s independence in 1947. Proud in becoming an autonomous country, national cinema experienced a Golden Era from the 1940s to the 1960s. This era saw directors such as Satyajit Ray, Guru Dutt, Raj Kapoor and Vijay Bhatt create a wide range of classic films, further establishing and redefining Indian film. It was these influential filmmakers who paved the pathway for the future of Bollywood, and its present day position as one of the largest film industries in the world."
+                    }],
+                "tags": ["Bollywood", "Industry", "Entertainment"],
+                "views" : 0
+            },
+            {
+                "imageUrl": "/Images/article-images/bollywood-1.jpg",
+                "articleTitle": "100 years of Bollywood",
+                "description": "A Cinema Like No Other: 100 Years of Bollywood. In the 100 years since, Indian films - which include Bollywood productions - have become a cinematic phenomenon watched by millions of people around the world regardless of their religion or background.",
+                "category":"Bollywood",
+                "articleDateTIme":"August 21, 2017",
+                "articleId" : 17,
+                "authorPicUrl": "/Images/author-pics/author-1.jpg",
+                "authorName": "Dmitry Nohzenko",
+                "readingTime": "5 min read",
+                "articleContent" : [{   
+                        "para":"The Indian film industry stands above most other national cinemas due to its local focus yet enormous size. Although gaining more and more international popularity, the main audience for this cinematic titan resides within India, and while this may seem a restrictive quality, the fact that India is the second most populated country in the world, combined with the local focus of Indian cinemas (in 2012 foreign imports only filled 9% of the total film box office), Indian cinema has grown to become one of the largest film industries in the world. Although the film industry is widely known as ‘Bollywood’, this term actually only refers to the Hindi-language films produced through the studios in Mumbai (Bombay), only one part of the incredible spectrum of Indian films, albeit the largest."
+                    },
+                    {   
+                        "para":"Another influential factor in Bollywood’s growth was India’s independence in 1947. Proud in becoming an autonomous country, national cinema experienced a Golden Era from the 1940s to the 1960s. This era saw directors such as Satyajit Ray, Guru Dutt, Raj Kapoor and Vijay Bhatt create a wide range of classic films, further establishing and redefining Indian film. It was these influential filmmakers who paved the pathway for the future of Bollywood, and its present day position as one of the largest film industries in the world."
+                    }],
+                "tags": ["Bollywood", "Industry", "Entertainment"],
+                "views" : 0
+            },
+            {
+                "imageUrl": "/Images/article-images/bollywood-1.jpg",
+                "articleTitle": "100 years of Bollywood",
+                "description": "A Cinema Like No Other: 100 Years of Bollywood. In the 100 years since, Indian films - which include Bollywood productions - have become a cinematic phenomenon watched by millions of people around the world regardless of their religion or background.",
+                "category":"Bollywood",
+                "articleDateTIme":"August 21, 2017",
+                "articleId" : 18,
+                "authorPicUrl": "/Images/author-pics/author-1.jpg",
+                "authorName": "Dmitry Nohzenko",
+                "readingTime": "5 min read",
+                "articleContent" : [{   
+                        "para":"The Indian film industry stands above most other national cinemas due to its local focus yet enormous size. Although gaining more and more international popularity, the main audience for this cinematic titan resides within India, and while this may seem a restrictive quality, the fact that India is the second most populated country in the world, combined with the local focus of Indian cinemas (in 2012 foreign imports only filled 9% of the total film box office), Indian cinema has grown to become one of the largest film industries in the world. Although the film industry is widely known as ‘Bollywood’, this term actually only refers to the Hindi-language films produced through the studios in Mumbai (Bombay), only one part of the incredible spectrum of Indian films, albeit the largest."
+                    },
+                    {   
+                        "para":"Another influential factor in Bollywood’s growth was India’s independence in 1947. Proud in becoming an autonomous country, national cinema experienced a Golden Era from the 1940s to the 1960s. This era saw directors such as Satyajit Ray, Guru Dutt, Raj Kapoor and Vijay Bhatt create a wide range of classic films, further establishing and redefining Indian film. It was these influential filmmakers who paved the pathway for the future of Bollywood, and its present day position as one of the largest film industries in the world."
+                    }],
+                "tags": ["Bollywood", "Industry", "Entertainment"],
+                "views" : 0
+            }
+        ],
+        "Technology" :[
+            {
+                "imageUrl": "/Images/article-images/IOT-1.jpg",
+                "articleTitle": "Internet of Things",
+                "description": "What Technologies are Used in IoT – Technology Behind Internet of Things",
+                "category":"Technology",
+                "articleDateTIme":"August 21, 2017",
+                "articleId" : 19,
+                "authorPicUrl": "/Images/author-pics/author-1.jpg",
+                "authorName": "Dmitry Nohzenko",
+                "readingTime": "10 min read",
+                "articleContent" : [{   
+                        "para":"The Internet of Things keeps promising us a smarter future: fridges able to replenish themselves by automatically ordering food at a local grocery store (in-fridge delivery included!), bridges warning the oncoming cars about a frozen surface, or smart gear that monitors your health and delivers real-time data straight to your doctor’s iPhone. While all of this may soon be within the reach of our hands, we still have to be aware of the massive machinery behind the scenes that makes dreams become reality. Without myriads of IoT technologies that surround us, these dreams would never come true."
+                    },
+                    {   
+                        "para":"The Internet of Things (IoT) is a system of interconnected digital devices, machines, objects, animals or people provided with unique identifiers and the ability to transmit and share data over the network without the need of human-to-human or human-to-computer interaction. Bridging the gap between the physical and virtual worlds, IoT aims at creating smart environments in which individuals as well as whole societies will be able to live in a smarter and more comfortable way. Pompous as it may sound, the IoT has already become part of our daily life and no doubt it will settle there for good. With all this in mind, let us now have a brief look over the machinery behind the IoT world that makes it go round."
+                    }],
+                "tags": ["Tech", "IOT", "Internet"],
+                "views" : 0
+            },
+            {
+                "imageUrl": "/Images/article-images/IOT-1.jpg",
+                "articleTitle": "Internet of Things",
+                "description": "What Technologies are Used in IoT – Technology Behind Internet of Things",
+                "category":"Technology",
+                "articleDateTIme":"August 21, 2017",
+                "articleId" : 20,
+                "authorPicUrl": "/Images/author-pics/author-1.jpg",
+                "authorName": "Dmitry Nohzenko",
+                "readingTime": "10 min read",
+                "articleContent" : [{   
+                        "para":"The Internet of Things keeps promising us a smarter future: fridges able to replenish themselves by automatically ordering food at a local grocery store (in-fridge delivery included!), bridges warning the oncoming cars about a frozen surface, or smart gear that monitors your health and delivers real-time data straight to your doctor’s iPhone. While all of this may soon be within the reach of our hands, we still have to be aware of the massive machinery behind the scenes that makes dreams become reality. Without myriads of IoT technologies that surround us, these dreams would never come true."
+                    },
+                    {   
+                        "para":"The Internet of Things (IoT) is a system of interconnected digital devices, machines, objects, animals or people provided with unique identifiers and the ability to transmit and share data over the network without the need of human-to-human or human-to-computer interaction. Bridging the gap between the physical and virtual worlds, IoT aims at creating smart environments in which individuals as well as whole societies will be able to live in a smarter and more comfortable way. Pompous as it may sound, the IoT has already become part of our daily life and no doubt it will settle there for good. With all this in mind, let us now have a brief look over the machinery behind the IoT world that makes it go round."
+                    }],
+                "tags": ["Tech", "IOT", "Internet"],
+                "views" : 0
+            },
+            {
+                "imageUrl": "/Images/article-images/IOT-1.jpg",
+                "articleTitle": "Internet of Things",
+                "description": "What Technologies are Used in IoT – Technology Behind Internet of Things",
+                "category":"Technology",
+                "articleDateTIme":"August 21, 2017",
+                "articleId" : 21,
+                "authorPicUrl": "/Images/author-pics/author-1.jpg",
+                "authorName": "Dmitry Nohzenko",
+                "readingTime": "10 min read",
+                "articleContent" : [{   
+                        "para":"The Internet of Things keeps promising us a smarter future: fridges able to replenish themselves by automatically ordering food at a local grocery store (in-fridge delivery included!), bridges warning the oncoming cars about a frozen surface, or smart gear that monitors your health and delivers real-time data straight to your doctor’s iPhone. While all of this may soon be within the reach of our hands, we still have to be aware of the massive machinery behind the scenes that makes dreams become reality. Without myriads of IoT technologies that surround us, these dreams would never come true."
+                    },
+                    {   
+                        "para":"The Internet of Things (IoT) is a system of interconnected digital devices, machines, objects, animals or people provided with unique identifiers and the ability to transmit and share data over the network without the need of human-to-human or human-to-computer interaction. Bridging the gap between the physical and virtual worlds, IoT aims at creating smart environments in which individuals as well as whole societies will be able to live in a smarter and more comfortable way. Pompous as it may sound, the IoT has already become part of our daily life and no doubt it will settle there for good. With all this in mind, let us now have a brief look over the machinery behind the IoT world that makes it go round."
+                    }],
+                "tags": ["Tech", "IOT", "Internet"],
+                "views" : 0
+            },
+            {
+                "imageUrl": "/Images/article-images/IOT-1.jpg",
+                "articleTitle": "Internet of Things",
+                "description": "What Technologies are Used in IoT – Technology Behind Internet of Things",
+                "category":"Technology",
+                "articleDateTIme":"August 21, 2017",
+                "articleId" : 22,
+                "authorPicUrl": "/Images/author-pics/author-1.jpg",
+                "authorName": "Dmitry Nohzenko",
+                "readingTime": "10 min read",
+                "articleContent" : [{   
+                        "para":"The Internet of Things keeps promising us a smarter future: fridges able to replenish themselves by automatically ordering food at a local grocery store (in-fridge delivery included!), bridges warning the oncoming cars about a frozen surface, or smart gear that monitors your health and delivers real-time data straight to your doctor’s iPhone. While all of this may soon be within the reach of our hands, we still have to be aware of the massive machinery behind the scenes that makes dreams become reality. Without myriads of IoT technologies that surround us, these dreams would never come true."
+                    },
+                    {   
+                        "para":"The Internet of Things (IoT) is a system of interconnected digital devices, machines, objects, animals or people provided with unique identifiers and the ability to transmit and share data over the network without the need of human-to-human or human-to-computer interaction. Bridging the gap between the physical and virtual worlds, IoT aims at creating smart environments in which individuals as well as whole societies will be able to live in a smarter and more comfortable way. Pompous as it may sound, the IoT has already become part of our daily life and no doubt it will settle there for good. With all this in mind, let us now have a brief look over the machinery behind the IoT world that makes it go round."
+                    }],
+                "tags": ["Tech", "IOT", "Internet"],
+                "views" : 0
+            }
+        ],
+        "Fitness" :[
+            {
+                "imageUrl": "/Images/article-images/fitness-1.jpg",
+                "articleTitle": "Exercise and Benefits",
+                "description": "Reaping the mental health benefits of exercise is easier than you think",
+                "category":"Fitness",
+                "articleDateTIme":"August 21, 2017",
+                "articleId" : 23,
+                "authorPicUrl": "/Images/author-pics/author-1.jpg",
+                "authorName": "Dmitry Nohzenko",
+                "readingTime": "10 min read",
+                "articleContent" : [{   
+                        "para":"If you don’t have time for 15 or 30 minutes of exercise, or if your body tells you to take a break after 5 or 10 minutes, for example, that’s okay, too. Start with 5- or 10-minute sessions and slowly increase your time. The more you exercise, the more energy you’ll have, so eventually you’ll feel ready for a little more. The key is to commit to some moderate physical activity—however little—on most days. As exercising becomes a habit, you can slowly add extra minutes or try different types of activities. If you keep at it, the benefits of exercise will begin to pay off."
+                    }],
+                "tags": ["Fitness", "Exercise", "Health"],
+                "views" : 0
+            },
+            {
+                "imageUrl": "/Images/article-images/fitness-1.jpg",
+                "articleTitle": "Exercise and Benefits",
+                "description": "Reaping the mental health benefits of exercise is easier than you think",
+                "category":"Fitness",
+                "articleDateTIme":"August 21, 2017",
+                "articleId" : 24,
+                "authorPicUrl": "/Images/author-pics/author-1.jpg",
+                "authorName": "Dmitry Nohzenko",
+                "readingTime": "10 min read",
+                "articleContent" : [{   
+                        "para":"If you don’t have time for 15 or 30 minutes of exercise, or if your body tells you to take a break after 5 or 10 minutes, for example, that’s okay, too. Start with 5- or 10-minute sessions and slowly increase your time. The more you exercise, the more energy you’ll have, so eventually you’ll feel ready for a little more. The key is to commit to some moderate physical activity—however little—on most days. As exercising becomes a habit, you can slowly add extra minutes or try different types of activities. If you keep at it, the benefits of exercise will begin to pay off."
+                    }],
+                "tags": ["Fitness", "Exercise", "Health"],
+                "views" : 0
+            },
+            {
+                "imageUrl": "/Images/article-images/fitness-1.jpg",
+                "articleTitle": "Exercise and Benefits",
+                "description": "Reaping the mental health benefits of exercise is easier than you think",
+                "category":"Fitness",
+                "articleDateTIme":"August 21, 2017",
+                "articleId" : 25,
+                "authorPicUrl": "/Images/author-pics/author-1.jpg",
+                "authorName": "Dmitry Nohzenko",
+                "readingTime": "10 min read",
+                "articleContent" : [{   
+                        "para":"If you don’t have time for 15 or 30 minutes of exercise, or if your body tells you to take a break after 5 or 10 minutes, for example, that’s okay, too. Start with 5- or 10-minute sessions and slowly increase your time. The more you exercise, the more energy you’ll have, so eventually you’ll feel ready for a little more. The key is to commit to some moderate physical activity—however little—on most days. As exercising becomes a habit, you can slowly add extra minutes or try different types of activities. If you keep at it, the benefits of exercise will begin to pay off."
+                    }],
+                "tags": ["Fitness", "Exercise", "Health"],
+                "views" : 0
+            },
+            {
+                "imageUrl": "/Images/article-images/fitness-1.jpg",
+                "articleTitle": "Exercise and Benefits",
+                "description": "Reaping the mental health benefits of exercise is easier than you think",
+                "category":"Fitness",
+                "articleDateTIme":"August 21, 2017",
+                "articleId" : 26,
+                "authorPicUrl": "/Images/author-pics/author-1.jpg",
+                "authorName": "Dmitry Nohzenko",
+                "readingTime": "10 min read",
+                "articleContent" : [{   
+                        "para":"If you don’t have time for 15 or 30 minutes of exercise, or if your body tells you to take a break after 5 or 10 minutes, for example, that’s okay, too. Start with 5- or 10-minute sessions and slowly increase your time. The more you exercise, the more energy you’ll have, so eventually you’ll feel ready for a little more. The key is to commit to some moderate physical activity—however little—on most days. As exercising becomes a habit, you can slowly add extra minutes or try different types of activities. If you keep at it, the benefits of exercise will begin to pay off."
+                    }],
+                "tags": ["Fitness", "Exercise", "Health"],
+                "views" : 0
+            }
+        ],
+        "Travel" :[{
+                "imageUrl": "/Images/article-images/rani-ki-vav.jpg",
+                "articleTitle": "Rani ki Vav",
+                "description": "Gujarat is a state on the western coast of India with a coastline of 1,600 km – most of which lies on the Kathiawar peninsula – and a population of 60.4 million.",
+                "category":"Travel",
+                "articleDateTIme":"August 21, 2017",
+                "articleId" : 27,
+                "authorPicUrl": "/Images/author-pics/author-1.jpg",
+                "authorName": "Dmitry Nohzenko",
+                "readingTime": "10 min read",
+                "articleContent" : [{   
+                        "para":"Rani ki Vav or Ranki vav (lit. 'Queen’s stepwell') is a stepwell situated in the town of Patan in Gujarat state of India. It is located on the banks of Saraswati river. Its construction is attributed to Udayamati, daughter of Khengara of Saurashtra, queen of the 11th-century Solanki dynasty and spouse of Bhima I. Silted over, it was rediscovered in 1940s and restored in 1980s by the Archaeological Survey of India. It has been listed as one of UNESCO's World Heritage Sites since 2014. The finest and one of the largest examples of its kind and designed as an inverted temple highlighting the sanctity of water, the stepwell is divided into seven levels of stairs with sculptural panels; more than 500 principal sculptures and over a thousand minor ones combine religious, mythological and secular imagery.",
+                        "image": "/Images/article-images/rani-ki-vav-2.jpg"
+                    }],
+                "tags": ["Travel", "Gujarat", "Monument"],
+                "views" : 0
+            },
+            {
+                "imageUrl": "/Images/india-gate.jpg",
+                "articleTitle": "Travel Catch waves with an adeventurte guide",
+                "description": "The iconic India Gate, an arch gate made using sandstone, is a war memorial situated in the Rajpath area, Delhi. It was built to commemorate the Undivided British Army",
+                "category":"Travel",
+                "articleDateTIme":"August 21, 2017",
+                "articleId" : 2,
+                "authorPicUrl": "/Images/author-pics/author-1.jpg",
+                "authorName": "Dmitry Nohzenko",
+                "readingTime": "5 min read",
+                "articleContent" : [{   
+                        "para":"Situated at the banks of Yamuna river, Delhi, the capital of India, is a vibrant modern city with an ancient and eventful history. The city with its multi-faceted culture can aptly said to be a microcosm of the whole nation. Visit to the city offers a unique two-in-one experience as New Delhi with its wide roads and high rise buildings gives a feel of being in a contemporary city whereas a stroll down the streets of Old Delhi can easily take one to a bygone era with its narrow lanes and old 'havelis'. Delhi has thousands of historical monuments and places of religious importance. India Gate, an important monument of the city, is a memorial built in commemoration of more than 80,000 Indian soldiers who were killed during World War I. The monument is an imposing 42 meters high arch and was designed by the famous architect Edwin Lutyens. India gate was earlier named All India War Memorial. The design of India gate is almost similar to its French counterpart war memorial, the Arc-de-Triomphe.",
+                        "image": "/Images/article-images/India_Gate_1.jpg"
+                    }],
+                "tags": ["Travel", "New Delhi", "Monument"],
+                "views" : 0
+            },
+            {
+                "imageUrl": "/Images/rail-journey_0.jpg",
+                "articleTitle": "Travel Catch waves with an adeventurte guide",
+                "description": "MP is a state on the western coast of India with a coastline of 1,600 km – most of which lies on the Kathiawar peninsula – and a population of 60.4 million.",
+                "category":"Travel",
+                "articleDateTIme":"August 21, 2017",
+                "articleId" : 28,
+                "authorPicUrl": "/Images/author-pics/author-1.jpg",
+                "authorName": "Dmitry Nohzenko",
+                "readingTime": "5 min read",
+                "articleContent" : [{   
+                        "para":"Remaining as the only heritage railway in Maharashtra, Matheran still is a favourite among both people form Mumbai and those from outside, for the peace and tranquil atmosphere it offers. This narrow gauge rail line was built by Akbar Peerbhoy way back between the years 1901 to 1907. It runs through large swathes of forest territory and covers a total distance of 20 kms. Whether you are lone or with family and friends, this journey will surely take your mind off things for the little while it carries you."
+                    }],
+                "tags": ["Travel", "Railway", "Tourism"],
+                "views" : 0
+            },
+            {
+                "imageUrl": "/Images/india-gate.jpg",
+                "articleTitle": "Catch waves with an adeventurte guide",
+                "description": "Gujarat is a state on the western coast of India with a coastline of 1,600 km – most of which lies on the Kathiawar peninsula – and a population of 60.4 million.",
+                "category":"Travel",
+                "articleDateTIme":"August 21, 2019",
+                "articleId" : 29
+            },
+            {
+                "imageUrl": "/Images/india-gate.jpg",
+                "articleTitle": "Catch waves with an adeventurte guide",
+                "description": "Gujarat is a state on the western coast of India with a coastline of 1,600 km – most of which lies on the Kathiawar peninsula – and a population of 60.4 million.",
+                "category":"Travel",
+                "articleDateTIme":"August 21, 2019",
+                "articleId" : 30
+            }
+        ],
+        "Food" :[
+            {
+                "imageUrl": "/Images/article-images/ras-malai-1.jpg",
+                "articleTitle": "Best Indian Dessert Recipes ",
+                "description": "Dessert makes us go weak in the knees. It's a warm blanket on a cold winter evening and without a doubt Indian desserts tops our list when we crave a sweet treat.",
+                "category":"Food",
+                "articleDateTIme":"August 21, 2017",
+                "articleId" : 31,
+                "authorPicUrl": "/Images/author-pics/author-1.jpg",
+                "authorName": "Dmitry Nohzenko",
+                "readingTime": "5 min read",
+                "articleContent" : [{   
+                        "para":"Indian Dessert Recipes- Dessert makes us go weak in the knees. It's a warm blanket on a cold winter evening. It's icing on a cake and the climax to an absolutely spectacular movie. There is no denying the fact, that desserts give a befitting end to any meal. And Indians? We have a penchant for sweets, no doubt. Not only are desserts part of our staple fare, but they are also offered in our places of worship. Be it the khada prasad at Gurudwaras or the boondi ladoos served at temples, desserts form an integral part of our sacred offerings. And by and large, all Indian desserts use sugar, milk and khoya as staple ingredients.",
+                        "image": "/Images/article-images/kulfi-1.jpg"
+                    }],
+                "tags": ["Food", "India", "Sweets"],
+                "views" : 0
+            },
+            {
+                "imageUrl": "/Images/article-images/kulfi-1.jpg",
+                "articleTitle": "Best Indian Dessert Recipes ",
+                "description": "Dessert makes us go weak in the knees. It's a warm blanket on a cold winter evening and without a doubt Indian desserts tops our list when we crave a sweet treat.",
+                "category":"Food",
+                "articleDateTIme":"August 21, 2017",
+                "articleId" : 32,
+                "authorPicUrl": "/Images/author-pics/author-1.jpg",
+                "authorName": "Dmitry Nohzenko",
+                "readingTime": "5 min read",
+                "articleContent" : [{   
+                        "para":"Indian Dessert Recipes- Dessert makes us go weak in the knees. It's a warm blanket on a cold winter evening. It's icing on a cake and the climax to an absolutely spectacular movie. There is no denying the fact, that desserts give a befitting end to any meal. And Indians? We have a penchant for sweets, no doubt. Not only are desserts part of our staple fare, but they are also offered in our places of worship. Be it the khada prasad at Gurudwaras or the boondi ladoos served at temples, desserts form an integral part of our sacred offerings. And by and large, all Indian desserts use sugar, milk and khoya as staple ingredients.",
+                        "image": "/Images/article-images/ras-malai-1.jpg"
+                    }],
+                "tags": ["Food", "India", "Sweets"],
+                "views" : 0
+            },
+            {
+                "imageUrl": "/Images/article-images/ras-malai-1.jpg",
+                "articleTitle": "Best Indian Dessert Recipes ",
+                "description": "Dessert makes us go weak in the knees. It's a warm blanket on a cold winter evening and without a doubt Indian desserts tops our list when we crave a sweet treat.",
+                "category":"Food",
+                "articleDateTIme":"August 21, 2017",
+                "articleId" : 33,
+                "authorPicUrl": "/Images/author-pics/author-1.jpg",
+                "authorName": "Dmitry Nohzenko",
+                "readingTime": "5 min read",
+                "articleContent" : [{   
+                        "para":"Indian Dessert Recipes- Dessert makes us go weak in the knees. It's a warm blanket on a cold winter evening. It's icing on a cake and the climax to an absolutely spectacular movie. There is no denying the fact, that desserts give a befitting end to any meal. And Indians? We have a penchant for sweets, no doubt. Not only are desserts part of our staple fare, but they are also offered in our places of worship. Be it the khada prasad at Gurudwaras or the boondi ladoos served at temples, desserts form an integral part of our sacred offerings. And by and large, all Indian desserts use sugar, milk and khoya as staple ingredients.",
+                        "image": "/Images/article-images/kulfi-1.jpg"
+                    }],
+                "tags": ["Food", "India", "Sweets"],
+                "views" : 0
+            },
+            {
+                "imageUrl": "/Images/article-images/kulfi-1.jpg",
+                "articleTitle": "Best Indian Dessert Recipes ",
+                "description": "Dessert makes us go weak in the knees. It's a warm blanket on a cold winter evening and without a doubt Indian desserts tops our list when we crave a sweet treat.",
+                "category":"Food",
+                "articleDateTIme":"August 21, 2017",
+                "articleId" : 34,
+                "authorPicUrl": "/Images/author-pics/author-1.jpg",
+                "authorName": "Dmitry Nohzenko",
+                "readingTime": "5 min read",
+                "articleContent" : [{   
+                        "para":"Indian Dessert Recipes- Dessert makes us go weak in the knees. It's a warm blanket on a cold winter evening. It's icing on a cake and the climax to an absolutely spectacular movie. There is no denying the fact, that desserts give a befitting end to any meal. And Indians? We have a penchant for sweets, no doubt. Not only are desserts part of our staple fare, but they are also offered in our places of worship. Be it the khada prasad at Gurudwaras or the boondi ladoos served at temples, desserts form an integral part of our sacred offerings. And by and large, all Indian desserts use sugar, milk and khoya as staple ingredients.",
+                        "image": "/Images/article-images/ras-malai-1.jpg"
+                    }],
+                "tags": ["Food", "India", "Sweets"],
+                "views" : 0
+            }
+        ]
+    },
+
+    "articles":{
+        "Bollywood" : [{
+            "articleId":2,
+            "artcileDesc":"hi hello"
+        }],
+        "Travel" : [{
+            "articleId":1,
+            "artcileDesc":"hi hello"
+        }]
+    }
+}

@@ -1,0 +1,19 @@
+.category-page .segregate-section {
+    display: flex;
+    justify-content: space-around;
+}
+.category-page  .articles-cards:first-of-type {
+    border-top: none;
+}
+
+.category-page .article-title {
+    font-size: 1.5rem;
+}
+.category-page .top-posts {
+    margin: 0;
+}
+@media (max-width: 450px){
+    .category-page .segregate-section {
+        flex-direction: column;
+    }
+}
